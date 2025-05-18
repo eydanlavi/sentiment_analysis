@@ -2,7 +2,7 @@
 
 This will create and activate a virtual environment (if it doesn't already exist) and install all required packages:
 
-source setup.sh
+bash setup.sh
 
 # Run main.py
 
